@@ -1,101 +1,103 @@
-apple a common red or green fruit
-ball round object used in many games
-cat a small pet animal that says meow
-dog loyal animal often called man's best friend
-book collection of written pages
-chair something you sit on
-table piece of furniture with flat top
-pen tool used for writing
-pencil writing tool made of wood and lead
-bag used to carry things
-cup small container used for drinking
-milk white liquid from cows
-bird animal that can fly
-fish lives in water and has fins
-car vehicle with four wheels
-bus large vehicle for public transport
-train moves on tracks
-ship large boat for traveling on sea
-bike two-wheeled vehicle
-door used to enter or exit a room
-window allows light and air into a room
-house place where people live
-tree tall plant with leaves and branches
-flower colorful part of a plant
-sun star that gives light and heat
-moon seen at night in the sky
-star shining object in the night sky
-rain water falling from clouds
-snow frozen water falling from clouds
-cloud white shape floating in the sky
-grass green plant covering the ground
-road path for vehicles
-river natural flowing water
-mountain very high landform
-stone small piece of rock
-sand found on beaches and deserts
-cake sweet food eaten at birthdays
-bread food made from flour
-egg comes from a hen
-juice drink made from fruits
-water liquid we drink every day
-fire produces heat and light
-ice frozen water
-shoe worn on feet
-shirt clothing for the upper body
-pants clothing for legs
-hat worn on the head
-watch shows time
-clock device to tell time
-phone used to call someone
-computer machine used to process data
-mouse small computer device
-keyboard used to type on computer
-bookstore place to buy books
-market place to buy food and goods
-school place where students learn
-teacher person who teaches
-student person who studies
-friend someone you like and trust
-family parents and children together
-brother male sibling
-sister female sibling
-mother female parent
-father male parent
-baby very young child
-toy object for playing
-balloon filled with air or gas
-color what you see when light reflects
-red one of the main colors
-blue color of the sky
-green color of leaves
-yellow color of the sun
-black color opposite of white
-white color opposite of black
-orange fruit and a color
-banana long yellow fruit
-mango sweet tropical fruit
-grape small round fruit
-peach soft juicy fruit
-pear fruit shaped like a teardrop
-lemon sour yellow fruit
-strawberry red fruit with seeds outside
-cherry small red fruit with a seed
-watermelon large green fruit with red inside
-carrot orange vegetable
-potato vegetable used to make fries
-tomato red vegetable or fruit
-onion used in cooking and makes you cry
-garlic small white cooking ingredient
-salt used to add taste
-sugar makes food sweet
-milkshake cold drink made from milk and ice cream
-bread butter spread on toast
-coffee hot drink made from beans
-tea hot drink made from leaves
-chocolate sweet brown candy
-cookie small sweet biscuit
-pizza popular cheesy fast food
-burger sandwich with patty
-noodle long thin food made from flour
-rice main food in many countries
+apple Food
+ball Object
+cat Animal
+dog Animal
+book School
+chair Household
+table Household
+pen School
+pencil School
+bag Object
+cup Household
+milk Food
+door Household
+window Household
+house Place
+tree Nature
+flower Nature
+bird Animal
+fish Animal
+car Vehicle
+bus Vehicle
+train Vehicle
+ship Vehicle
+bike Vehicle
+sun Nature
+moon Nature
+star Nature
+rain Nature
+snow Nature
+cloud Nature
+grass Nature
+road Place
+river Nature
+mountain Nature
+stone Nature
+sand Nature
+cake Food
+bread Food
+egg Food
+juice Food
+water Food
+fire Nature
+ice Nature
+shoe Clothes
+shirt Clothes
+pants Clothes
+hat Clothes
+watch Object
+clock Object
+phone Technology
+computer Technology
+mouse Technology
+keyboard Technology
+bookstore Place
+market Place
+school Place
+teacher Person
+student Person
+friend Person
+family Person
+brother Person
+sister Person
+mother Person
+father Person
+baby Person
+toy Object
+balloon Object
+color Concept
+red Color
+blue Color
+green Color
+yellow Color
+black Color
+white Color
+orange Fruit
+banana Fruit
+mango Fruit
+grape Fruit
+peach Fruit
+pear Fruit
+lemon Fruit
+strawberry Fruit
+cherry Fruit
+watermelon Fruit
+carrot Vegetable
+potato Vegetable
+tomato Vegetable
+onion Vegetable
+garlic Vegetable
+salt Ingredient
+sugar Ingredient
+milkshake Drink
+bread_butter Food
+coffee Drink
+tea Drink
+chocolate Sweet
+cookie Sweet
+pizza Food
+burger Food
+noodle Food
+rice Food
+
+
